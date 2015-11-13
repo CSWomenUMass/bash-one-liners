@@ -2,12 +2,17 @@
 For the NCWIT CS Women Workshop at UMass Amherst CICS
 
 unzip
+env
 grep
-find  
+find
 lsof
 awk
-sort 
-tail
+sort
+head,tail
 xargs
-alias and maybe a few more?
-
+alias
+ssh
+df
+crontab
+traceroute
+and maybe a few more?
